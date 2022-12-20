@@ -7,9 +7,11 @@ You can click the Preview link to take a look at your changes.
 <html>
 <head>
   <h1> Jasneet kaur CV Portfolio </h1>
-<title>- 👋 Hi, I’m Jasneet Kaur </title>
+
 </head>
 <body>
+ - 👋 Hi, I’m Jasneet Kaur
+  
 - 👀 I’m interested in Exploring places, learning about different cultures, Listening music.
   
 - 🌱 I’m currently learning advanced Automation...
