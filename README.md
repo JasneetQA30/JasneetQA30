@@ -14,11 +14,13 @@ You can click the Preview link to take a look at your changes.
   
 - 👀 I’m interested in Exploring places, learning about different cultures, Listening music.
   
-- 🌱 I’m currently learning advanced Automation...
+- 🌱 I’m currently doing advanced Automation...
+- Quality data test engineer with 13+ years of experience making sure complete, correct and on time. 
   
-- 📫 You can reach me @jasneetj@gmail.com, +45 71595781...
+- 📫 You can reach me @jasneetj@gmail.com, +45 91437152...
   
-- https://www.linkedin.com/in/jasneet-kaur-87960547/
+- https://www.linkedin.com/in/jasneet-kaur-sm/
+)
   
 </body>
 </html>
